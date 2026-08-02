@@ -1,0 +1,3 @@
+[submodule "third_party/wmma_extension"]
+	path = third_party/wmma_extension
+	url = https://github.com/youliangh/wmma_extension.git
